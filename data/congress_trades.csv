@@ -1,0 +1,151 @@
+ticker,description,transaction_type,amount,politician,trade_date,returns
+BITB,Bitwise Bitcoin ETF,Purchase,"$15,001 - $50,000",David McCormick Senate / R,"Nov. 25, 2025",2.63%
+BITB,Bitwise Bitcoin ETF,Purchase,"$50,001 - $100,000",David McCormick Senate / R,"Nov. 24, 2025",-0.39%
+-,UNIV PITTSBURGH OF THE COMWLTH REV,Sale (Full),"$50,001 - $100,000",David McCormick Senate / R,"Oct. 28, 2025",-
+-,PENNSYLVANIA ST HIGHER EDL REV,Purchase,"$100,001 - $250,000",David McCormick Senate / R,"Oct. 28, 2025",-
+-,PENNSYLVANIA ST GO,Sale (Full),"$100,001 - $250,000",David McCormick Senate / R,"Oct. 28, 2025",-
+-,DAUPHIN CNTY PA GO,Sale (Full),"$1,001 - $15,000",David McCormick Senate / R,"Oct. 31, 2025",-
+-,NORTHERN LEHIGH PA SCH DIST GO,Sale (Full),"$15,001 - $50,000",David McCormick Senate / R,"Oct. 31, 2025",-
+-,MONTGOMERY CNTY PA INDL DEV REV,Purchase,"$100,001 - $250,000",David McCormick Senate / R,"Nov. 18, 2025",-
+-,OHIO ST WTR DEV AUTH WTR REV,Purchase,"$100,001 - $250,000",David McCormick Senate / R,"Nov. 19, 2025",-
+-,GREATER LATROBE PA SCH AUTH REV,Purchase,"$100,001 - $250,000",David McCormick Senate / R,"Oct. 31, 2025",-
+-,HAVERFORD TWP PA SCH DIST GO,Sale (Full),"$15,001 - $50,000",David McCormick Senate / R,"Oct. 28, 2025",-
+-,DELAWARE RIV PORT AUTH PA & NJ REV,Sale (Full),"$100,001 - $250,000",David McCormick Senate / R,"Oct. 28, 2025",-
+-,UPPER MERION PA AREA SCH DIST GO,Sale (Full),"$15,001 - $50,000",David McCormick Senate / R,"Oct. 28, 2025",-
+-,HEMPFIELD PA AREA SCH DIST,Purchase,"$250,001 - $500,000",David McCormick Senate / R,"Nov. 04, 2025",-
+-,DANIEL BOONE PA AREA SCH DIST GO,Sale (Full),"$50,001 - $100,000",David McCormick Senate / R,"Oct. 31, 2025",-
+-,PHILADELPHIA PA WTR & WASTEWTR REV,Purchase,"$100,001 - $250,000",David McCormick Senate / R,"Oct. 29, 2025",-
+HBAN,Huntington Bancshares Incorporated - Common Stock,Sale (Full),"$100,001 - $250,000",Tina Smith Senate / D,"Nov. 21, 2025",-1.07%
+OGN,Organon & Co.,Sale (Full),"$1,001 - $15,000",Gary C. Peters Senate / D,"Jul. 10, 2025",-32.29%
+AVGO,BROADCOM INC. - COMMON STOCK,Purchase,"$1,001 - $15,000",Jared Moskowitz House / D,"Oct. 10, 2025",19.48%
+AVGO,BROADCOM INC. - COMMON STOCK,Purchase,"$15,001 - $50,000",Jared Moskowitz House / D,"Oct. 10, 2025",19.48%
+AVGO,BROADCOM INC. - COMMON STOCK,Purchase,"$1,001 - $15,000",Jared Moskowitz House / D,"Oct. 10, 2025",19.48%
+AXP,AMERICAN EXPRESS COMPANY COMMON STOCK,Purchase,"$15,001 - $50,000",Jared Moskowitz House / D,"Oct. 10, 2025",10.85%
+AXP,AMERICAN EXPRESS COMPANY COMMON STOCK,Purchase,"$1,001 - $15,000",Jared Moskowitz House / D,"Oct. 10, 2025",10.85%
+AXP,AMERICAN EXPRESS COMPANY COMMON STOCK,Purchase,"$1,001 - $15,000",Jared Moskowitz House / D,"Oct. 10, 2025",10.85%
+CARR,CARRIER GLOBAL CORPORATION COMMON STOCK,Sale,"$1,001 - $15,000",Jared Moskowitz House / D,"Oct. 10, 2025",-7.79%
+CARR,CARRIER GLOBAL CORPORATION COMMON STOCK,Sale,"$1,001 - $15,000",Jared Moskowitz House / D,"Oct. 10, 2025",-7.79%
+CARR,CARRIER GLOBAL CORPORATION COMMON STOCK,Sale,"$1,001 - $15,000",Jared Moskowitz House / D,"Oct. 10, 2025",-7.79%
+CSCO,"CISCO SYSTEMS, INC. - COMMON STOCK",Purchase,"$1,001 - $15,000",Jared Moskowitz House / D,"Oct. 10, 2025",8.60%
+CSCO,"CISCO SYSTEMS, INC. - COMMON STOCK",Purchase,"$1,001 - $15,000",Jared Moskowitz House / D,"Oct. 10, 2025",8.60%
+CSCO,"CISCO SYSTEMS, INC. - COMMON STOCK",Purchase,"$15,001 - $50,000",Jared Moskowitz House / D,"Oct. 10, 2025",8.60%
+DELL,DELL TECHNOLOGIES INC. CLASS C COMMON STOCK,Purchase,"$1,001 - $15,000",Jared Moskowitz House / D,"Oct. 10, 2025",-16.08%
+DELL,DELL TECHNOLOGIES INC. CLASS C COMMON STOCK,Purchase,"$1,001 - $15,000",Jared Moskowitz House / D,"Oct. 10, 2025",-16.08%
+DELL,DELL TECHNOLOGIES INC. CLASS C COMMON STOCK,Purchase,"$15,001 - $50,000",Jared Moskowitz House / D,"Oct. 10, 2025",-16.08%
+GS,"GOLDMAN SACHS GROUP, INC.",Purchase,"$1,001 - $15,000",Jared Moskowitz House / D,"Oct. 10, 2025",3.42%
+GS,"GOLDMAN SACHS GROUP, INC.",Purchase,"$15,001 - $50,000",Jared Moskowitz House / D,"Oct. 10, 2025",3.42%
+GS,"GOLDMAN SACHS GROUP, INC.",Purchase,"$1,001 - $15,000",Jared Moskowitz House / D,"Oct. 10, 2025",3.42%
+JNJ,JOHNSON & JOHNSON COMMON STOCK,Sale,"$1,001 - $15,000",Jared Moskowitz House / D,"Oct. 10, 2025",3.85%
+JNJ,JOHNSON & JOHNSON COMMON STOCK,Sale,"$1,001 - $15,000",Jared Moskowitz House / D,"Oct. 10, 2025",3.85%
+MCK,MCKESSON CORPORATION COMMON STOCK,Purchase,"$1,001 - $15,000",Jared Moskowitz House / D,"Oct. 10, 2025",10.75%
+SHW,SHERWIN-WILLIAMS COMPANY,Sale,"$15,001 - $50,000",Jared Moskowitz House / D,"Oct. 10, 2025",-1.38%
+SHW,SHERWIN-WILLIAMS COMPANY,Sale,"$1,001 - $15,000",Jared Moskowitz House / D,"Oct. 10, 2025",-1.38%
+SHW,SHERWIN-WILLIAMS COMPANY,Sale,"$1,001 - $15,000",Jared Moskowitz House / D,"Oct. 10, 2025",-1.38%
+TSM,TAIWAN SEMICONDUCTOR MANUFACTURING COMPANY LTD.,Purchase,"$1,001 - $15,000",Jared Moskowitz House / D,"Oct. 10, 2025",-0.78%
+TSM,TAIWAN SEMICONDUCTOR MANUFACTURING COMPANY LTD.,Purchase,"$1,001 - $15,000",Jared Moskowitz House / D,"Oct. 10, 2025",-0.78%
+TXN,TEXAS INSTRUMENTS INCORPORATED - COMMON STOCK,Sale,"$1,001 - $15,000",Jared Moskowitz House / D,"Oct. 10, 2025",-6.64%
+TXN,TEXAS INSTRUMENTS INCORPORATED - COMMON STOCK,Sale,"$15,001 - $50,000",Jared Moskowitz House / D,"Oct. 10, 2025",-6.64%
+TXN,TEXAS INSTRUMENTS INCORPORATED - COMMON STOCK,Sale,"$1,001 - $15,000",Jared Moskowitz House / D,"Oct. 10, 2025",-6.64%
+BRK.B,Berkshire Hathaway Cl B,Sale (Full),"$15,001 - $50,000",Markwayne Mullin Senate / R,"Nov. 03, 2025",7.99%
+CMG,"Chipotle Mexican Grill, Inc. Common Stock",Sale (Full),"$15,001 - $50,000",Markwayne Mullin Senate / R,"Nov. 03, 2025",9.53%
+FI,Fiserv Inc,Sale (Full),"$15,001 - $50,000",Markwayne Mullin Senate / R,"Nov. 03, 2025",-1.77%
+MSFT,Microsoft Corp,Purchase,"$250,001 - $500,000",Markwayne Mullin Senate / R,"Nov. 03, 2025",-4.86%
+TMUS,"T-Mobile US, Inc. - Common Stock",Sale (Full),"$50,001 - $100,000",Markwayne Mullin Senate / R,"Nov. 03, 2025",2.78%
+AAPL,APPLE INC. - COMMON STOCK,Sale,"$15,001 - $50,000",Lisa C. McClain House / R,"Oct. 31, 2025",2.92%
+AAPL,APPLE INC. - COMMON STOCK,Purchase,"$15,001 - $50,000",Lisa C. McClain House / R,"Oct. 30, 2025",2.24%
+AAPL,APPLE INC. - COMMON STOCK,Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 14, 2025",9.31%
+AAPL,APPLE INC. - COMMON STOCK,Sale,"$15,001 - $50,000",Lisa C. McClain House / R,"Oct. 30, 2025",2.24%
+ABBV,ABBVIE INC. COMMON STOCK,Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",-0.73%
+ABBV,ABBVIE INC. COMMON STOCK,Purchase,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",-0.73%
+ABBV,ABBVIE INC. COMMON STOCK,Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 31, 2025",4.21%
+ACIW,"ACI WORLDWIDE, INC. - COMMON STOCK",Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 31, 2025",-1.84%
+ACIW,"ACI WORLDWIDE, INC. - COMMON STOCK",Purchase,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",-1.29%
+ACIW,"ACI WORLDWIDE, INC. - COMMON STOCK",Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",-1.29%
+AKAM,"AKAMAI TECHNOLOGIES, INC. - COMMON STOCK",Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 31, 2025",18.98%
+AKAM,"AKAMAI TECHNOLOGIES, INC. - COMMON STOCK",Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",20.58%
+AKAM,"AKAMAI TECHNOLOGIES, INC. - COMMON STOCK",Purchase,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",20.58%
+ALEX,"ALEXANDER & BALDWIN, INC. COMMON STOCK REIT HOLDING COMPANY",Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",-6.80%
+ALEX,"ALEXANDER & BALDWIN, INC. COMMON STOCK REIT HOLDING COMPANY",Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 31, 2025",-2.35%
+ALEX,"ALEXANDER & BALDWIN, INC. COMMON STOCK REIT HOLDING COMPANY",Purchase,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",-6.80%
+ALLE,ALLEGION PLC ORDINARY SHARES,Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 31, 2025",-0.06%
+ALLE,ALLEGION PLC ORDINARY SHARES,Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",-0.06%
+ALLE,ALLEGION PLC ORDINARY SHARES,Purchase,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",-0.06%
+AMD,"ADVANCED MICRO DEVICES, INC.",Purchase,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",-15.15%
+AMD,"ADVANCED MICRO DEVICES, INC.",Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",-15.15%
+AMD,"ADVANCED MICRO DEVICES, INC.",Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 31, 2025",-15.29%
+AMH,AMERICAN HOMES 4 RENT COMMON SHARES OF BENEFICIAL INTEREST,Purchase,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",-0.41%
+AMH,AMERICAN HOMES 4 RENT COMMON SHARES OF BENEFICIAL INTEREST,Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",-0.41%
+AMH,AMERICAN HOMES 4 RENT COMMON SHARES OF BENEFICIAL INTEREST,Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 31, 2025",1.43%
+AMZN,"AMAZON.COM, INC. - COMMON STOCK",Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 14, 2025",4.55%
+ANET,"ARISTA NETWORKS, INC. COMMON STOCK",Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 14, 2025",-9.07%
+APPF,"APPFOLIO, INC. - CLASS A COMMON STOCK",Purchase,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",-3.66%
+APPF,"APPFOLIO, INC. - CLASS A COMMON STOCK",Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",-3.66%
+APPF,"APPFOLIO, INC. - CLASS A COMMON STOCK",Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 31, 2025",-10.50%
+ASML,ASML HOLDING N.V. - NEW YORK REGISTRY SHARES,Purchase,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",-1.94%
+ASML,ASML HOLDING N.V. - NEW YORK REGISTRY SHARES,Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 31, 2025",-0.15%
+ASML,ASML HOLDING N.V. - NEW YORK REGISTRY SHARES,Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",-1.94%
+ASML,ASML HOLDING N.V. - NEW YORK REGISTRY SHARES,Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 14, 2025",4.58%
+AVB,"AVALONBAY COMMUNITIES, INC. COMMON STOCK",Purchase,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",3.63%
+AVB,"AVALONBAY COMMUNITIES, INC. COMMON STOCK",Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 31, 2025",4.39%
+AVB,"AVALONBAY COMMUNITIES, INC. COMMON STOCK",Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",3.63%
+AVGO,BROADCOM INC. - COMMON STOCK,Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",6.53%
+AVGO,BROADCOM INC. - COMMON STOCK,Purchase,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",6.53%
+AVGO,BROADCOM INC. - COMMON STOCK,Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 31, 2025",8.80%
+AXP,AMERICAN EXPRESS COMPANY COMMON STOCK,Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 31, 2025",1.04%
+AXP,AMERICAN EXPRESS COMPANY COMMON STOCK,Purchase,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",1.27%
+AXP,AMERICAN EXPRESS COMPANY COMMON STOCK,Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",1.27%
+AZN,ASTRAZENECA PLC - AMERICAN DEPOSITARY SHARES,Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 31, 2025",12.31%
+AZN,ASTRAZENECA PLC - AMERICAN DEPOSITARY SHARES,Purchase,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",12.10%
+AZN,ASTRAZENECA PLC - AMERICAN DEPOSITARY SHARES,Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",12.10%
+BABA,ALIBABA GROUP HOLDING LIMITED AMERICAN DEPOSITARY SHARES EACH REPRESENTING EIGHT ORDINARY SHARE,Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",-10.07%
+BABA,ALIBABA GROUP HOLDING LIMITED AMERICAN DEPOSITARY SHARES EACH REPRESENTING EIGHT ORDINARY SHARE,Purchase,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",-10.07%
+BABA,ALIBABA GROUP HOLDING LIMITED AMERICAN DEPOSITARY SHARES EACH REPRESENTING EIGHT ORDINARY SHARE,Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 31, 2025",-7.92%
+BAC,BANK OF AMERICA CORPORATION COMMON STOCK,Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",0.66%
+BAC,BANK OF AMERICA CORPORATION COMMON STOCK,Purchase,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",0.66%
+BAC,BANK OF AMERICA CORPORATION COMMON STOCK,Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 31, 2025",0.16%
+BAX,BAXTER INTERNATIONAL INC. COMMON STOCK,Purchase,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",-2.70%
+BAX,BAXTER INTERNATIONAL INC. COMMON STOCK,Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",-2.70%
+BAX,BAXTER INTERNATIONAL INC. COMMON STOCK,Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 31, 2025",1.24%
+BCO,BRINKS COMPANY,Purchase,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",0.02%
+BCO,BRINKS COMPANY,Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 31, 2025",0.83%
+BCO,BRINKS COMPANY,Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",0.02%
+BCS,BARCLAYS PLC COMMON STOCK,Purchase,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",6.29%
+BCS,BARCLAYS PLC COMMON STOCK,Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",6.29%
+BCS,BARCLAYS PLC COMMON STOCK,Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 31, 2025",5.83%
+BHP,BHP GROUP LIMITED AMERICAN DEPOSITARY SHARES,Purchase,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",-4.89%
+BHP,BHP GROUP LIMITED AMERICAN DEPOSITARY SHARES,Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",-4.89%
+BHP,BHP GROUP LIMITED AMERICAN DEPOSITARY SHARES,Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 31, 2025",-4.29%
+BK,THE BANK OF NEW YORK MELLON CORPORATION COMMON STOCK,Purchase,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",3.37%
+BK,THE BANK OF NEW YORK MELLON CORPORATION COMMON STOCK,Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 31, 2025",3.65%
+BK,THE BANK OF NEW YORK MELLON CORPORATION COMMON STOCK,Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",3.37%
+BL,"BLACKLINE, INC. - COMMON STOCK",Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",-0.07%
+BL,"BLACKLINE, INC. - COMMON STOCK",Purchase,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",-0.07%
+BL,"BLACKLINE, INC. - COMMON STOCK",Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 31, 2025",-0.67%
+BLK,"BLACKROCK, INC. COMMON STOCK",Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 14, 2025",-15.54%
+BP,BP P.L.C. COMMON STOCK,Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",3.32%
+BP,BP P.L.C. COMMON STOCK,Purchase,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",3.32%
+BP,BP P.L.C. COMMON STOCK,Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 31, 2025",2.54%
+BRK.B,BERKSHIRE HATHAWAY INC. NEW COMMON STOCK,Purchase,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",6.87%
+BRK.B,BERKSHIRE HATHAWAY INC. NEW COMMON STOCK,Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",6.87%
+BRK.B,BERKSHIRE HATHAWAY INC. NEW COMMON STOCK,Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 31, 2025",7.38%
+BRO,"BROWN & BROWN, INC. COMMON STOCK",Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",-0.53%
+BRO,"BROWN & BROWN, INC. COMMON STOCK",Purchase,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",-0.53%
+BRO,"BROWN & BROWN, INC. COMMON STOCK",Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 31, 2025",0.65%
+BSX,BOSTON SCIENTIFIC CORPORATION COMMON STOCK,Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 31, 2025",0.64%
+BSX,BOSTON SCIENTIFIC CORPORATION COMMON STOCK,Purchase,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",0.50%
+BSX,BOSTON SCIENTIFIC CORPORATION COMMON STOCK,Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",0.50%
+BWXT,"BWX TECHNOLOGIES, INC. COMMON STOCK",Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",-16.84%
+BWXT,"BWX TECHNOLOGIES, INC. COMMON STOCK",Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 31, 2025",-16.48%
+BWXT,"BWX TECHNOLOGIES, INC. COMMON STOCK",Purchase,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",-16.84%
+CACI,"CACI INTERNATIONAL, INC. CLASS A COMMON STOCK",Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",9.05%
+CACI,"CACI INTERNATIONAL, INC. CLASS A COMMON STOCK",Purchase,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",9.05%
+CACI,"CACI INTERNATIONAL, INC. CLASS A COMMON STOCK",Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 31, 2025",9.54%
+CASY,"CASEYS GENERAL STORES, INC. - COMMON STOCK",Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 31, 2025",10.94%
+CASY,"CASEYS GENERAL STORES, INC. - COMMON STOCK",Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",9.51%
+CASY,"CASEYS GENERAL STORES, INC. - COMMON STOCK",Purchase,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",9.51%
+CEG,CONSTELLATION ENERGY CORPORATION - COMMON STOCK,Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",-5.24%
+CEG,CONSTELLATION ENERGY CORPORATION - COMMON STOCK,Purchase,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",-5.24%
+CEG,CONSTELLATION ENERGY CORPORATION - COMMON STOCK WHEN-ISSUED,Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 31, 2025",-3.57%
+CHRD,CHORD ENERGY CORPORATION - COMMON STOCK,Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 31, 2025",3.24%
+CHRD,CHORD ENERGY CORPORATION - COMMON STOCK,Purchase,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",3.52%
+CHRD,CHORD ENERGY CORPORATION - COMMON STOCK,Sale,"$1,001 - $15,000",Lisa C. McClain House / R,"Oct. 30, 2025",3.52%

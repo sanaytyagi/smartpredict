@@ -1,0 +1,201 @@
+ticker,company,transaction_type,date_filed
+DASH,"Doordash, Inc.",Purchase,2025-11-28
+BETA,"Beta Technologies, Inc.",Purchase,2025-11-07
+CTRI,"Centuri Holdings, Inc.",Purchase,2025-11-14
+REZI,"Resideo Technologies, Inc.",Purchase,2025-11-13
+STAA,Staar Surgical Co,Purchase,2025-11-21
+ET,Energy Transfer LP,Purchase,2025-11-20
+EVMN,"Evommune, Inc.",Purchase,2025-11-12
+EVMN,"Evommune, Inc.",Purchase,2025-11-12
+BHVN,Biohaven Ltd.,Purchase,2025-11-17
+EVMN,"Evommune, Inc.",Purchase,2025-11-12
+BNTC,Benitec Biopharma Inc.,Purchase,2025-11-10
+GRX.G,Gabelli Healthcare & Wellnessrx Trust,Purchase,2025-11-05
+VRCA,Verrica Pharmaceuticals Inc.,Purchase,2025-11-25
+BHC,Bausch Health Companies Inc.,Purchase,2025-11-28
+MSM,Msc Industrial Direct Co Inc,Purchase,2025-11-03
+HYMC,Hycroft Mining Holding Corp,Purchase,2025-11-14
+MNRO,"Monro, Inc.",Purchase,2025-11-07
+LAB,Standard Biotools Inc.,Purchase,2025-11-26
+MNRO,"Monro, Inc.",Purchase,2025-11-05
+CNS,"Cohen & Steers, Inc.",Purchase,2025-11-05
+BLND,"Blend Labs, Inc.",Purchase,2025-11-12
+BFLY,"Butterfly Network, Inc.",Purchase,2025-11-21
+BLND,"Blend Labs, Inc.",Purchase,2025-11-17
+NEXT,Nextdecade Corp,Purchase,2025-11-19
+RIG,Transocean Ltd.,Purchase,2025-11-25
+RIG,Transocean Ltd.,Purchase,2025-11-25
+RIG,Transocean Ltd.,Purchase,2025-11-25
+CNS,"Cohen & Steers, Inc.",Purchase,2025-11-20
+RUM,Rumble Inc.,Purchase,2025-11-21
+CEPV,"Cantor Equity Partners V, Inc.",Purchase,2025-11-05
+NEXT,Nextdecade Corp,Purchase,2025-11-26
+WOLF,"Wolfspeed, Inc.",Purchase,2025-11-04
+ACVA,Acv Auctions Inc.,Purchase,2025-11-12
+ANNX,"Annexon, Inc.",Purchase,2025-11-19
+LNPIX,Lincoln Partners Group Royalty Fund,Purchase,2025-11-03
+BHVN,Biohaven Ltd.,Purchase,2025-11-17
+CLVT,Clarivate Plc,Purchase,2025-11-03
+SPRU,Spruce Power Holding Corp,Purchase,2025-11-14
+ROP,Roper Technologies Inc,Purchase,2025-11-12
+NEXT,Nextdecade Corp,Purchase,2025-11-24
+NEXT,Nextdecade Corp,Purchase,2025-11-17
+BLND,"Blend Labs, Inc.",Purchase,2025-11-20
+HYMC,Hycroft Mining Holding Corp,Purchase,2025-11-19
+TELA,"Tela Bio, Inc.",Purchase,2025-11-17
+SRZN,"Surrozen, Inc./De",Purchase,2025-11-17
+VAC,Marriott Vacations Worldwide Corp,Purchase,2025-11-19
+UPST,"Upstart Holdings, Inc.",Purchase,2025-11-13
+ANNX,"Annexon, Inc.",Purchase,2025-11-21
+NEXT,Nextdecade Corp,Purchase,2025-11-13
+VACI,Viking Acquisition Corp I,Purchase,2025-11-04
+GLOO,"Gloo Holdings, Inc.",Purchase,2025-11-20
+ALMS,Alumis Inc.,Purchase,2025-11-19
+ALMS,Alumis Inc.,Purchase,2025-11-19
+ALMS,Alumis Inc.,Purchase,2025-11-19
+BHVN,Biohaven Ltd.,Purchase,2025-11-17
+IKT,"Inhibikase Therapeutics, Inc.",Purchase,2025-11-24
+PROP,Prairie Operating Co.,Purchase,2025-11-24
+RPD,"Rapid7, Inc.",Purchase,2025-11-25
+TDG,Transdigm Group Inc,Purchase,2025-11-17
+TPC,Tutor Perini Corp,Purchase,2025-11-25
+GTE,Gran Tierra Energy Inc.,Purchase,2025-11-06
+LINE,"Lineage, Inc.",Purchase,2025-11-12
+BLLN,"Billiontoone, Inc.",Purchase,2025-11-10
+CLVT,Clarivate Plc,Purchase,2025-11-03
+NP,Neptune Insurance Holdings Inc.,Purchase,2025-11-14
+BATRA,"Atlanta Braves Holdings, Inc.",Purchase,2025-11-10
+LUNR,"Intuitive Machines, Inc.",Purchase,2025-11-13
+PLUR,Pluri Inc.,Purchase,2025-11-20
+ANVS,"Annovis Bio, Inc.",Purchase,2025-11-12
+GLOO,"Gloo Holdings, Inc.",Purchase,2025-11-20
+GLOO,"Gloo Holdings, Inc.",Purchase,2025-11-20
+BX,Blackstone Inc.,Purchase,2025-11-05
+FRSH,Freshworks Inc.,Purchase,2025-11-12
+FRSH,Freshworks Inc.,Purchase,2025-11-12
+PRMB,Primo Brands Corp,Purchase,2025-11-13
+VANI,"Vivani Medical, Inc.",Purchase,2025-11-17
+TMUS,"T-Mobile Us, Inc.",Purchase,2025-11-10
+MSM,Msc Industrial Direct Co Inc,Purchase,2025-11-20
+PGNY,"Progyny, Inc.",Purchase,2025-11-17
+LSCC,Lattice Semiconductor Corp,Purchase,2025-11-10
+ASA,Asa Gold & Precious Metals Ltd,Purchase,2025-11-24
+BETA,"Beta Technologies, Inc.",Purchase,2025-11-07
+ALMS,Alumis Inc.,Purchase,2025-11-19
+CNS,"Cohen & Steers, Inc.",Purchase,2025-11-20
+ALMS,Alumis Inc.,Purchase,2025-11-17
+GEF,"Greif, Inc",Purchase,2025-11-13
+BATRA,"Atlanta Braves Holdings, Inc.",Purchase,2025-11-19
+LAB,Standard Biotools Inc.,Purchase,2025-11-12
+LAB,Standard Biotools Inc.,Purchase,2025-11-20
+TRDA,"Entrada Therapeutics, Inc.",Purchase,2025-11-12
+ALRM,"Alarm.Com Holdings, Inc.",Purchase,2025-11-20
+ASST,"Strive, Inc.",Purchase,2025-11-07
+ASA,Asa Gold & Precious Metals Ltd,Purchase,2025-11-04
+EXEL,"Exelixis, Inc.",Purchase,2025-11-26
+LAB,Standard Biotools Inc.,Purchase,2025-11-17
+RLMD,"Relmada Therapeutics, Inc.",Purchase,2025-11-06
+ORGO,Organogenesis Holdings Inc.,Purchase,2025-11-03
+BEN,Franklin Resources Inc,Purchase,2025-11-19
+DGICA,Donegal Group Inc,Purchase,2025-11-24
+BEN,Franklin Resources Inc,Purchase,2025-11-21
+DASH,"Doordash, Inc.",Sale,2025-11-28
+BETA,"Beta Technologies, Inc.",Sale,2025-11-07
+CTRI,"Centuri Holdings, Inc.",Sale,2025-11-14
+REZI,"Resideo Technologies, Inc.",Sale,2025-11-13
+STAA,Staar Surgical Co,Sale,2025-11-21
+ET,Energy Transfer LP,Sale,2025-11-20
+EVMN,"Evommune, Inc.",Sale,2025-11-12
+EVMN,"Evommune, Inc.",Sale,2025-11-12
+BHVN,Biohaven Ltd.,Sale,2025-11-17
+EVMN,"Evommune, Inc.",Sale,2025-11-12
+BNTC,Benitec Biopharma Inc.,Sale,2025-11-10
+GRX.G,Gabelli Healthcare & Wellnessrx Trust,Sale,2025-11-05
+VRCA,Verrica Pharmaceuticals Inc.,Sale,2025-11-25
+BHC,Bausch Health Companies Inc.,Sale,2025-11-28
+MSM,Msc Industrial Direct Co Inc,Sale,2025-11-03
+HYMC,Hycroft Mining Holding Corp,Sale,2025-11-14
+MNRO,"Monro, Inc.",Sale,2025-11-07
+LAB,Standard Biotools Inc.,Sale,2025-11-26
+MNRO,"Monro, Inc.",Sale,2025-11-05
+CNS,"Cohen & Steers, Inc.",Sale,2025-11-05
+BLND,"Blend Labs, Inc.",Sale,2025-11-12
+BFLY,"Butterfly Network, Inc.",Sale,2025-11-21
+BLND,"Blend Labs, Inc.",Sale,2025-11-17
+NEXT,Nextdecade Corp,Sale,2025-11-19
+RIG,Transocean Ltd.,Sale,2025-11-25
+RIG,Transocean Ltd.,Sale,2025-11-25
+RIG,Transocean Ltd.,Sale,2025-11-25
+CNS,"Cohen & Steers, Inc.",Sale,2025-11-20
+RUM,Rumble Inc.,Sale,2025-11-21
+CEPV,"Cantor Equity Partners V, Inc.",Sale,2025-11-05
+NEXT,Nextdecade Corp,Sale,2025-11-26
+WOLF,"Wolfspeed, Inc.",Sale,2025-11-04
+ACVA,Acv Auctions Inc.,Sale,2025-11-12
+ANNX,"Annexon, Inc.",Sale,2025-11-19
+LNPIX,Lincoln Partners Group Royalty Fund,Sale,2025-11-03
+BHVN,Biohaven Ltd.,Sale,2025-11-17
+CLVT,Clarivate Plc,Sale,2025-11-03
+SPRU,Spruce Power Holding Corp,Sale,2025-11-14
+ROP,Roper Technologies Inc,Sale,2025-11-12
+NEXT,Nextdecade Corp,Sale,2025-11-24
+NEXT,Nextdecade Corp,Sale,2025-11-17
+BLND,"Blend Labs, Inc.",Sale,2025-11-20
+HYMC,Hycroft Mining Holding Corp,Sale,2025-11-19
+TELA,"Tela Bio, Inc.",Sale,2025-11-17
+SRZN,"Surrozen, Inc./De",Sale,2025-11-17
+VAC,Marriott Vacations Worldwide Corp,Sale,2025-11-19
+UPST,"Upstart Holdings, Inc.",Sale,2025-11-13
+ANNX,"Annexon, Inc.",Sale,2025-11-21
+NEXT,Nextdecade Corp,Sale,2025-11-13
+VACI,Viking Acquisition Corp I,Sale,2025-11-04
+GLOO,"Gloo Holdings, Inc.",Sale,2025-11-20
+ALMS,Alumis Inc.,Sale,2025-11-19
+ALMS,Alumis Inc.,Sale,2025-11-19
+ALMS,Alumis Inc.,Sale,2025-11-19
+BHVN,Biohaven Ltd.,Sale,2025-11-17
+IKT,"Inhibikase Therapeutics, Inc.",Sale,2025-11-24
+PROP,Prairie Operating Co.,Sale,2025-11-24
+RPD,"Rapid7, Inc.",Sale,2025-11-25
+TDG,Transdigm Group Inc,Sale,2025-11-17
+TPC,Tutor Perini Corp,Sale,2025-11-25
+GTE,Gran Tierra Energy Inc.,Sale,2025-11-06
+LINE,"Lineage, Inc.",Sale,2025-11-12
+BLLN,"Billiontoone, Inc.",Sale,2025-11-10
+CLVT,Clarivate Plc,Sale,2025-11-03
+NP,Neptune Insurance Holdings Inc.,Sale,2025-11-14
+BATRA,"Atlanta Braves Holdings, Inc.",Sale,2025-11-10
+LUNR,"Intuitive Machines, Inc.",Sale,2025-11-13
+PLUR,Pluri Inc.,Sale,2025-11-20
+ANVS,"Annovis Bio, Inc.",Sale,2025-11-12
+GLOO,"Gloo Holdings, Inc.",Sale,2025-11-20
+GLOO,"Gloo Holdings, Inc.",Sale,2025-11-20
+BX,Blackstone Inc.,Sale,2025-11-05
+FRSH,Freshworks Inc.,Sale,2025-11-12
+FRSH,Freshworks Inc.,Sale,2025-11-12
+PRMB,Primo Brands Corp,Sale,2025-11-13
+VANI,"Vivani Medical, Inc.",Sale,2025-11-17
+TMUS,"T-Mobile Us, Inc.",Sale,2025-11-10
+MSM,Msc Industrial Direct Co Inc,Sale,2025-11-20
+PGNY,"Progyny, Inc.",Sale,2025-11-17
+LSCC,Lattice Semiconductor Corp,Sale,2025-11-10
+ASA,Asa Gold & Precious Metals Ltd,Sale,2025-11-24
+BETA,"Beta Technologies, Inc.",Sale,2025-11-07
+ALMS,Alumis Inc.,Sale,2025-11-19
+CNS,"Cohen & Steers, Inc.",Sale,2025-11-20
+ALMS,Alumis Inc.,Sale,2025-11-17
+GEF,"Greif, Inc",Sale,2025-11-13
+BATRA,"Atlanta Braves Holdings, Inc.",Sale,2025-11-19
+LAB,Standard Biotools Inc.,Sale,2025-11-12
+LAB,Standard Biotools Inc.,Sale,2025-11-20
+TRDA,"Entrada Therapeutics, Inc.",Sale,2025-11-12
+ALRM,"Alarm.Com Holdings, Inc.",Sale,2025-11-20
+ASST,"Strive, Inc.",Sale,2025-11-07
+ASA,Asa Gold & Precious Metals Ltd,Sale,2025-11-04
+EXEL,"Exelixis, Inc.",Sale,2025-11-26
+LAB,Standard Biotools Inc.,Sale,2025-11-17
+RLMD,"Relmada Therapeutics, Inc.",Sale,2025-11-06
+ORGO,Organogenesis Holdings Inc.,Sale,2025-11-03
+BEN,Franklin Resources Inc,Sale,2025-11-19
+DGICA,Donegal Group Inc,Sale,2025-11-24
+BEN,Franklin Resources Inc,Sale,2025-11-21
